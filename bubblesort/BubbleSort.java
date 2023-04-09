@@ -26,11 +26,11 @@ public class BubbleSort {
         ArrayList <Integer> NilaiArray = new ArrayList<Integer>();
         
         Scanner scan = new Scanner(System.in);
-        System.out.println("Masukan Tiga Buah Nilai");
+        System.out.println("Masukan Lima Buah Nilai");
         
         System.out.println("--------------------------------------------------");
         
-        jumlah = 3;
+        jumlah = 5;
         int angka[] = new int [jumlah];
         
         for(i=0; i<jumlah; i++)
